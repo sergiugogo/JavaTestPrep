@@ -21,7 +21,7 @@ public class Main extends Application {
 
         Scene scene = new Scene(loader.load());
         stage.setScene(scene);
-        stage.setTitle("Medications Application");
+        stage.setTitle("Workout Application");
         stage.setMinWidth(900);
         stage.setMinHeight(600);
         stage.show();

@@ -2,9 +2,6 @@ package repo;
 
 import domain.Workout;
 
-import javax.swing.plaf.nimbus.State;
-import java.net.ConnectException;
-import java.net.HttpRetryException;
 import java.sql.*;
 import java.util.*;
 
